@@ -1,0 +1,20 @@
+{
+  "name": "BARMM Finance Tracker",
+  "short_name": "BARMM-Fin",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#009966",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/009966/ffffff?text=BARMM",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/009966/ffffff?text=BARMM",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
